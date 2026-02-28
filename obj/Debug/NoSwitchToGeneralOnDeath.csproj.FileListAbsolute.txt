@@ -1,0 +1,13 @@
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Debug\Mods\mod\modinfo.json
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Debug\Mods\mod\NoSwitchToGeneralOnDeath.deps.json
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Debug\Mods\mod\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Debug\Mods\mod\NoSwitchToGeneralOnDeath.pdb
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.csproj.AssemblyReference.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.AssemblyInfoInputs.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.AssemblyInfo.cs
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.csproj.CoreCompileInputs.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\refint\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.pdb
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\ref\NoSwitchToGeneralOnDeath.dll
