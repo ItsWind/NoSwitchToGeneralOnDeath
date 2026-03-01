@@ -6,6 +6,7 @@ using Vintagestory.Client.NoObf;
 
 namespace NoSwitchToGeneralOnDeath;
 
+/*
 [HarmonyPatch(typeof(EntityPlayer), nameof(EntityPlayer.Die))]
 public class EntityPlayerDiePatch {
     [HarmonyPrefix]
@@ -16,3 +17,4 @@ public class EntityPlayerDiePatch {
         return true;
     }
 }
+*/

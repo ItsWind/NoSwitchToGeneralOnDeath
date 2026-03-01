@@ -11,3 +11,4 @@ C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\No
 C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\refint\NoSwitchToGeneralOnDeath.dll
 C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.pdb
 C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\ref\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Debug\NoSwitchToGeneralOnDeath.sourcelink.json

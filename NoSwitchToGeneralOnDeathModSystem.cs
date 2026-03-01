@@ -34,14 +34,23 @@ public class NoSwitchToGeneralOnDeathModSystem : ModSystem {
         chatTabs.activeElement = tabIndex;
     }
 
+    public void OnPlayerDies(IClientPlayer player) {
+        ClientMain game = (ClientMain)API.World;
+        SwitchToChatGroupID = game.currentGroupid;
+    }
+
     public override void StartClientSide(ICoreClientAPI api) {
         API = api;
+
+        api.Event.PlayerDeath += OnPlayerDies;
 
         harmony = new Harmony(Mod.Info.ModID);
         harmony.PatchAll();
     }
 
     public override void Dispose() {
+        API.Event.PlayerDeath -= OnPlayerDies;
+
         harmony?.UnpatchAll(Mod.Info.ModID);
     }
 }
