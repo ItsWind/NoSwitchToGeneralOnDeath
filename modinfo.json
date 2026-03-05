@@ -8,7 +8,7 @@
         "Windwhistle"
     ],
     "description": "Stops chat from switching to general when a player dies.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dependencies": {
         "game": "1.21.0"
     }

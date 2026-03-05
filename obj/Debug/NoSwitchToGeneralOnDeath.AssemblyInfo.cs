@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoSwitchToGeneralOnDeath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb3a4d4f19cf6ab717b2cf175b50effbdc9768d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac8ba6b7c5f472a322a289788478c1df4c22e97")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoSwitchToGeneralOnDeath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoSwitchToGeneralOnDeath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
