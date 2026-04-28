@@ -18,7 +18,7 @@ public class Main : ModSystem {
         Traverse chatBoxTrav = Traverse.Create(chatBox);
 
         //int tabIndex = chatBox.tabIndexByGroupId(game.currentGroupid);
-        int tabIndex = (int)chatBoxTrav.Method("tabIndexByGroupId", Game.currentGroupid).GetValue();
+        int tabIndex = (int)chatBoxTrav.Method("tabIndexByGroupId", Game.currentGroupid).GetValue<object>();
 
         GuiElementHorizontalTabs chatTabs = chatBox.Composers["chat"].GetHorizontalTabs("tabs");
 
@@ -28,7 +28,7 @@ public class Main : ModSystem {
         }
 
         //chatBox.UpdateText();
-        chatBoxTrav.Method("UpdateText").GetValue();
+        chatBoxTrav.Method("UpdateText").GetValue<object>();
 
         chatTabs.activeElement = tabIndex;
     }

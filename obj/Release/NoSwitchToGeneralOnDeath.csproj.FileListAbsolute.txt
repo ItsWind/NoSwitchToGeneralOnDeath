@@ -1,0 +1,14 @@
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Release\Mods\mod\modinfo.json
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Release\Mods\mod\NoSwitchToGeneralOnDeath.deps.json
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Release\Mods\mod\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\bin\Release\Mods\mod\NoSwitchToGeneralOnDeath.pdb
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.csproj.AssemblyReference.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.AssemblyInfoInputs.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.AssemblyInfo.cs
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.csproj.CoreCompileInputs.cache
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.sourcelink.json
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\refint\NoSwitchToGeneralOnDeath.dll
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\NoSwitchToGeneralOnDeath.pdb
+C:\Users\stric\source\repos\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\NoSwitchToGeneralOnDeath\obj\Release\ref\NoSwitchToGeneralOnDeath.dll

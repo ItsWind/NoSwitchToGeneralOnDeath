@@ -5,6 +5,8 @@ namespace NoSwitchToGeneralOnDeath;
 
 [HarmonyPatch(typeof(HudDialogChat), "OnNewServerToClientChatLine")]
 public class HudDialogChatOnNewServerToClientChatLinePatch {
+    private static string lastMessageSent = null;
+
     private static void DoRuinedClutterNoSwitchOrChangeToCurrentTab(ref int groupId) {
         if (ModConfig.Loaded.MoveRuinedClutterMessagesToCurrentTab)
             groupId = Main.Game.currentGroupid;
@@ -16,6 +18,14 @@ public class HudDialogChatOnNewServerToClientChatLinePatch {
     // shattered 9 + 1space
     [HarmonyPrefix]
     public static void Prefix(ref int groupId, string message) {
+        Main.API.Logger.Debug("BEFORE OnNewServerToClientChatLine");
+
+        // Check if current message sent is last message for death repeats.
+        if (lastMessageSent != null && message == lastMessageSent) {
+            Main.SaveCurrentChatTabForSwitch();
+        }
+        lastMessageSent = message;
+
         // Return if message is less than 10 characters, as it isn't either of the checks
         if (message.Length < 10)
             return;

@@ -7,9 +7,9 @@
     "authors": [
         "Windwhistle"
     ],
-    "description": "Stops chat from switching to general when a player dies.",
-    "version": "1.0.3",
+    "description": "Stops chat from switching when a player dies.",
+    "version": "1.0.4",
     "dependencies": {
-        "game": "1.21.0"
+        "game": "1.22.0"
     }
 }
